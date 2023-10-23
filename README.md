@@ -20,7 +20,16 @@ We propose a conceptual modelling framework for DT-CNSs, which progresses from t
 
 ## Installation Prerequisite
 
-pip install numpy copy pandas networkx heapq os math
+```
+$ pip install numpy copy pandas networkx heapq os math
+```
+## Project Installation
+
+Please navigate to the folder and run command:
+
+```
+$ python setup.py install
+```
 
 ## Documents
 
@@ -46,7 +55,7 @@ If you use BibTeX, cite using the following entries:
     @article{wen2022towards,
     title={Towards Digital Twin Oriented Modelling of Complex Networked Systems and Their Dynamics: A Comprehensive Survey},
     author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
-    journal={Ieee Access},
+    journal={IEEE Access},
     year={2022},
     publisher={IEEE}}
     
@@ -66,10 +75,9 @@ If you use BibTeX, cite using the following entries:
     journal={arXiv preprint arXiv:2308.11034},
     year={2023}}
 
-    @article{wen2023digital,
+    @article{wen2023heterogeneous,
     title={Heterogeneous Feature Representation for Digital Twin-Oriented Complex Networked Systems},
     author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
     journal={arXiv preprint arXiv:2309.13229},
     year={2023}}
-
 
