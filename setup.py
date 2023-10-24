@@ -9,7 +9,6 @@ setup(
     classifiers=['Topic :: Digital Twin-Oriented Complex Network Systems',
                  'Programming Language :: Python'],
     license='GPLv3',
-    install_requires=['numpy','copy','pandas','networkx','heapq','os','math'],
     python_requires=">=3.6",
     packages=find_packages()
 )
