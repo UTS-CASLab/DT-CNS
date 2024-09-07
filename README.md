@@ -47,37 +47,19 @@ $ python setup.py install
 [4. Jiaqi Wen, Bogdan Gabrys, and Katarzyna Musial. "Heterogeneous Feature Representation for Digital Twin-Oriented Complex
 Networked Systems." arXiv preprint arXiv:2308.11034 (2023).](http://arxiv.org/abs/2309.13229)
 
+
 ## How to cite DTCNS
 
 If you use BibTeX, cite using the following entries:
 
+    @article@article{wen2024dtcns,
+    title={DTCNS: A python toolbox for digital twin-oriented complex networked systems},
+    author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
+    journal={SoftwareX},
+    volume={27},
+    pages={101818},
+    year={2024},
+    publisher={Elsevier}
+    }
     
-    @article{wen2022towards,
-    title={Towards Digital Twin Oriented Modelling of Complex Networked Systems and Their Dynamics: A Comprehensive Survey},
-    author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
-    journal={IEEE Access},
-    year={2022},
-    publisher={IEEE}}
-    
-    @article{wen2023review,
-    author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
-    journal={IEEE Access}, 
-    title={Review and Assessment of Digital Twin–Oriented Social Network Simulators}, 
-    year={2023},
-    volume={11},
-    number={},
-    pages={97503-97521},
-    doi={10.1109/ACCESS.2023.3312129}}
-
-    @article{wen2023digital,
-    title={Digital Twin-Oriented Complex Networked Systems based on Heterogeneous Node Features and Interaction rules},
-    author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
-    journal={arXiv preprint arXiv:2308.11034},
-    year={2023}}
-
-    @article{wen2023heterogeneous,
-    title={Heterogeneous Feature Representation for Digital Twin-Oriented Complex Networked Systems},
-    author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
-    journal={arXiv preprint arXiv:2309.13229},
-    year={2023}}
 
