@@ -53,7 +53,7 @@ Networked Systems." arXiv preprint arXiv:2308.11034 (2023).](http://arxiv.org/ab
 If you use BibTeX, cite using the following entries:
 
     @article@article{wen2024dtcns,
-    title={DTCNS: A python toolbox for digital twin-oriented complex networked systems},
+    title={DTCNS: A python toolbox for Digital Twin-Oriented Complex Networked Systems},
     author={Wen, Jiaqi and Gabrys, Bogdan and Musial, Katarzyna},
     journal={SoftwareX},
     volume={27},
